@@ -516,7 +516,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-id="N27" tvg-name="哒啵赛事" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/NewTV44.png" group-title="NEWTV",哒啵赛事
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-
+江西电信,https://raw.githubusercontent.com/wjx6255/tv/main/jiangxi-dx.m3u
 
 #EXTINF:-1 tvg-id="M01" tvg-name="咪咕视频" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/mgsp.jpg" group-title="咪咕视频",咪咕全民热练
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
