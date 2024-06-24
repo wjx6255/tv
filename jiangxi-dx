@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JXDX01" tvg-name="江西都市" tvg-logo="https://github.com/wjx6255/tag/raw/main/Jiangxi1.png" group-title="江西电信",江西都市
+http://220.175.144.163:9000/udp/239.252.220.238:5140
+#EXTINF:-1 tvg-id="JXDX02" tvg-name="江西经济生活" tvg-logo="https://github.com/wjx6255/tag/raw/main/Jiangxi2.png" group-title="江西电信",江西经济生活
+http://220.175.144.163:9000/udp/239.252.219.173:5140
+#EXTINF:-1 tvg-id="JXDX03" tvg-name="江西公共农业" tvg-logo="https://github.com/wjx6255/tag/raw/main/Jiangxi4.png" group-title="江西电信",江西公共农业
+http://220.175.144.163:9000/udp/239.252.220.102:5140
+#EXTINF:-1 tvg-id="JXDX04" tvg-name="江西少儿" tvg-logo="https://github.com/wjx6255/tag/raw/main/Jiangxi5.png" group-title="江西电信",江西少儿
+http://220.175.144.163:9000/udp/239.252.219.113:5140
+#EXTINF:-1 tvg-id="JXDX05" tvg-name="江西新闻" tvg-logo="https://github.com/wjx6255/tag/raw/main/Jiangxi6.png" group-title="江西电信",江西新闻
+http://220.175.144.163:9000/udp/239.252.220.100:5140
+#EXTINF:-1 tvg-id="JXDX06" tvg-name="江西教育" tvg-logo="https://github.com/wjx6255/tag/raw/main/Jiangxi.png" group-title="江西电信",江西教育
+http://220.175.144.163:9000/udp/239.252.219.115:5140
+#EXTINF:-1 tvg-id="JXDX07" tvg-name="昌飞航空" tvg-logo="https://github.com/wjx6255/tag/raw/main/Jiangxi.png" group-title="江西电信",昌飞航空
+http://220.175.144.163:9000/udp/239.252.220.47:5140
+#EXTINF:-1 tvg-id="JXDX08" tvg-name="都市剧场" tvg-logo="https://github.com/wjx6255/tag/raw/main/Jiangxi.png" group-title="江西电信",都市剧场
+http://220.175.144.163:9000/udp/239.252.219.225:5140
+#EXTINF:-1 tvg-id="JXDX09" tvg-name="欢笑剧场" tvg-logo="https://github.com/wjx6255/tag/raw/main/Jiangxi.png" group-title="江西电信",欢笑剧场
+http://220.175.144.163:9000/udp/239.252.219.224:5140
+#EXTINF:-1 tvg-id="JXDX10" tvg-name="精彩影视" tvg-logo="https://github.com/wjx6255/tag/raw/main/Jiangxi.png" group-title="江西电信",精彩影视
+http://220.175.144.163:9000/udp/239.252.219.224:5140
