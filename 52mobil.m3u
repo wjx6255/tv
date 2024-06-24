@@ -499,9 +499,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-id="M06" tvg-name="咪咕视频" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/SHUZI/mgsp.jpg" group-title="咪咕视频",咪咕视频
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
-
-
-
+江西电信组播,https://raw.githubusercontent.com/wjx6255/tv/main/jiangxi-dx.m3u
 
 #EXTINF:-1 tvg-id="H11" tvg-name="黑龙江卫视高清" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/HEILONGJIANG/Heilongjiang.png" group-title="黑龙江地方",黑龙江卫视高清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/index.m3u8
