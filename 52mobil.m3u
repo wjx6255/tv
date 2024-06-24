@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="s11" tvg-name="家庭影院高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC2.png" group-title="湖南地方",家庭影院高清
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448840/main.m3u8#
+#EXTINF:-1 tvg-id="s12" tvg-name="高清电影高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC1.png" group-title="湖南地方",高清电影高清
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448841/main.m3u8#
+#EXTINF:-1 tvg-id="s13" tvg-name="动作电影高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC3.png" group-title="湖南地方",动作电影高清
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448842/main.m3u8#
 #EXTINF:-1 tvg-id="HN01" tvg-name="湖南卫视高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan.png" group-title="湖南地方",湖南卫视高清
 http://tvgslb.hn.chinamobile.com:8089//180000001002/00000001000000000064000000308827/main.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001242/main.m3u8
 #EXTINF:-1 tvg-id="HN02" tvg-name="湖南经视" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan1.png" group-title="湖南地方",湖南经视
@@ -8,12 +14,6 @@ http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-hunandushi/ind
 #EXTINF:-1 tvg-id="HN04" tvg-name="湖南电视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan7.png" group-title="湖南地方",湖南电视剧
 http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-xiaoxiangdsj/index.m3u8#http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000007000000001245/main.m3u8
 #EXTINF:-1 tvg-id="HN05" tvg-name="湖南电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan6.png" group-title="湖南地方",潇湘电影
-#EXTINF:-1 tvg-id="s11" tvg-name="家庭影院高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC2.png" group-title="湖南地方",家庭影院高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448840/main.m3u8#
-#EXTINF:-1 tvg-id="s12" tvg-name="高清电影高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC1.png" group-title="湖南地方",高清电影高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448841/main.m3u8#
-#EXTINF:-1 tvg-id="s13" tvg-name="动作电影高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC3.png" group-title="湖南地方",动作电影高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448842/main.m3u8#
 http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-xiaoxiangdy/index.m3u8#http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000007000000001246/main.m3u8
 #EXTINF:-1 tvg-id="HN06" tvg-name="湖南娱乐" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan5.png" group-title="湖南地方",湖南娱乐
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000007000000001248/main.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001248/main.m3u8
@@ -158,12 +158,6 @@ http://118.254.156.192:8888/udp/239.76.252.208:9000#http://118.254.156.78:8888/u
 #EXTINF:-1 tvg-id="HN76" tvg-name="湘西公共" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan.png" group-title="湖南地方",湘西公共
 http://118.254.156.78:8888/udp/239.76.252.209:9000#http://175.10.73.25:4022/udp/239.76.252.209:9000#http://175.10.73.25:4022/udp/239.76.252.210:9000#http://118.254.156.78:8888/udp/239.76.252.210:9000
 
-#EXTINF:-1 tvg-id="s11" tvg-name="家庭影院高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC2.png" group-title="央视高清",家庭影院高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448840/main.m3u8#
-#EXTINF:-1 tvg-id="s12" tvg-name="高清电影高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC1.png" group-title="央视高清",高清电影高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448841/main.m3u8#
-#EXTINF:-1 tvg-id="s13" tvg-name="动作电影高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC3.png" group-title="央视高清",动作电影高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448842/main.m3u8#
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTV1.png" group-title="央视高清",CCTV1
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000007000000001243/main.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTV2.png" group-title="央视高清" ,CCTV2
