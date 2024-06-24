@@ -152,6 +152,12 @@ http://118.254.156.192:8888/udp/239.76.252.208:9000#http://118.254.156.78:8888/u
 #EXTINF:-1 tvg-id="HN76" tvg-name="湘西公共" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan.png" group-title="湖南地方",湘西公共
 http://118.254.156.78:8888/udp/239.76.252.209:9000#http://175.10.73.25:4022/udp/239.76.252.209:9000#http://175.10.73.25:4022/udp/239.76.252.210:9000#http://118.254.156.78:8888/udp/239.76.252.210:9000
 
+#EXTINF:-1 tvg-id="s11" tvg-name="家庭影院高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC2.png" group-title="央视高清",家庭影院高清
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448840/main.m3u8#
+#EXTINF:-1 tvg-id="s12" tvg-name="高清电影高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC1.png" group-title="央视高清",高清电影高清
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448841/main.m3u8#
+#EXTINF:-1 tvg-id="s13" tvg-name="动作电影高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC3.png" group-title="央视高清",动作电影高清
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448842/main.m3u8#
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTV1.png" group-title="央视高清",CCTV1
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000007000000001243/main.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTV2.png" group-title="央视高清" ,CCTV2
@@ -208,8 +214,34 @@ http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/000000010000000000710
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000071000000305589/main.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305589/main.m3u8
 #EXTINF:-1 tvg-id="A28" tvg-name="中国天气" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/zgtq.png" group-title="央视高清",中国天气
 http://60.223.72.35:8005/rtp/226.0.2.103:8736
-
-
+#EXTINF:-1 tvg-id="s19" tvg-name="第一剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTVdyjc.png" group-title="央视高清",第一剧场
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244808/main.m3u8#
+#EXTINF:-1 tvg-id="s20" tvg-name="风云剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTVfyyy.png" group-title="央视高清",风云剧场
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244807/main.m3u8#
+#EXTINF:-1 tvg-id="s21" tvg-name="风云音乐" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTVfyjc.png" group-title="央视高清",风云音乐
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244809/main.m3u8#
+#EXTINF:-1 tvg-id="s22" tvg-name="风云足球" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTVfyzq.png" group-title="央视高清",风云足球
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244800/main.m3u8#
+#EXTINF:-1 tvg-id="s23" tvg-name="怀旧剧场" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTVhjjc.png" group-title="央视高清",怀旧剧场
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244806/main.m3u8
+#EXTINF:-1 tvg-id="s24" tvg-name="女性时尚" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTVnxss.png" group-title="央视高清",女性时尚
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244811/main.m3u8
+#EXTINF:-1 tvg-id="s25" tvg-name="央视文化精品" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/cctvwhjp.jpg" group-title="央视高清",央视文化精品
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244810/main.m3u8#
+#EXTINF:-1 tvg-id="s27" tvg-name="央视台球" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTVystq.png" group-title="央视高清",央视台球
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244803/main.m3u8#
+#EXTINF:-1 tvg-id="s28" tvg-name="兵器科技" tvg-log="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTVbqkj.png" group-title="央视高清",兵器科技
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244796/main.m3u8#
+#EXTINF:-1 tvg-id="s29" tvg-name="电视指南" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTVdszn.png" group-title="央视高清",电视指南
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244797/main.m3u8#
+#EXTINF:-1 tvg-id="s30" tvg-name="高尔夫网球" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CCTVgefwq.png" group-title="央视高清",高尔夫网球
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244801/main.m3u8#
+#EXTINF:-1 tvg-id="J01" tvg-name="CETV1" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CETV-1.png" group-title="央视高清",CETV1
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000016000000007220/main.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007220/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-id="J02" tvg-name="CETV2" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CETV-2.png" group-title="央视高清",CETV2
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000024000000361367/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361367/main.m3u8
+#EXTINF:-1 tvg-id="J03" tvg-name="CETV4" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CETV-4.png" group-title="央视高清",CETV4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan.png" group-title="高清卫视",湖南卫视
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000010000000040382/main.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 tvg-id="B02" tvg-name="江苏卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Jiangsu.png" group-title="高清卫视",江苏卫视
