@@ -646,21 +646,21 @@ http://59.38.63.253:2052/udp/239.77.1.178:5146
 #EXTINF:-1 tvg-id="BEIJING01" tvg-name="北京卫视高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Beijing.png" group-title="北京联通",北京卫视高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000008000000047443/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 tvg-id="BEIJING02" tvg-name="BRTV新闻" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Beijing1.png" group-title="北京联通",BRTV新闻
-http://114.243.107.120:4000/rtp/239.3.1.159:8000
+http://221.217.54.227:4022/rtp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="BEIJING03" tvg-name="BRTV影视" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Beijing4.png" group-title="北京联通",BRTV影视
-http://114.243.107.120:4000/rtp/239.3.1.158:8000
+http://221.217.54.227:4022/rtp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="BEIJING04" tvg-name="BRTV文艺" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Beijing3.png" group-title="北京联通",BRTV文艺
-http://114.243.107.120:4000/rtp/239.3.1.242:8000
+http://221.217.54.227:4022/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="BEIJING05" tvg-name="BRTV财经" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Beijing2.png" group-title="北京联通",BRTV财经
-http://114.243.107.120:4000/rtp/239.3.1.116:8000
+http://221.217.54.227:4022/rtp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="BEIJING07" tvg-name="BRTV生活" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Beijing7.png" group-title="北京联通",BRTV生活
-http://114.243.107.120:4000/rtp/239.3.1.117:8000
+http://221.217.54.227:4022/rtp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="BEIJING08" tvg-name="BRTV科教纪实" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Beijing9.png" group-title="北京联通",BRTV纪实科教
-http://114.243.107.120:4000/rtp/239.3.1.115:8000
+http://221.217.54.227:4022/rtp/239.3.1.115:8000
 #EXTINF:-1 tvg-id="BEIJING09" tvg-name="BRTV体育休闲" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Beijing6.png" group-title="北京联通",BRTV体育休闲
-http://114.243.107.120:4000/rtp/239.3.1.243:8000
+http://221.217.54.227:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="BEIJING10" tvg-name="BRTV国际" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Beijing11.png" group-title="北京联通",BRTV国际
-http://114.243.107.120:4000/rtp/239.3.1.235:8000
+http://221.217.54.227:4022/rtp/239.3.1.235:8000
 
 #EXTINF:-1 tvg-id="GUANGXI01" tvg-name="广西卫视高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Guangxi.png" group-title="广西地方",广西卫视高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000090000000215605/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226374/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
