@@ -1,4 +1,4 @@
-中国IPTV,#genre#
+湖南移动ITV,#genre#
 湖南卫视,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
 湖南卫视,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040382/main.m3u8
 湖南经视,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000002000000113182/main.m3u8
