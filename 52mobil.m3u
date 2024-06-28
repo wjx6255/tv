@@ -401,13 +401,13 @@ http://cdn8.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 
 
 
-#EXTINF:-1 tvg-id="J01" tvg-name="CETV1" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CETV-1.png" group-title="教育台",CETV1
+#EXTINF:-1 tvg-id="J01" tvg-name="CETV1高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CETV-1.png" group-title="教育台",CETV1高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000016000000007220/main.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007220/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-id="J02" tvg-name="CETV2" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CETV-2.png" group-title="教育台",CETV2
+#EXTINF:-1 tvg-id="J02" tvg-name="CETV2高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CETV-2.png" group-title="教育台",CETV2高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000024000000361367/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361367/main.m3u8
-#EXTINF:-1 tvg-id="J03" tvg-name="CETV4" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CETV-4.png" group-title="教育台",CETV4
+#EXTINF:-1 tvg-id="J03" tvg-name="CETV4高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CETV-4.png" group-title="教育台",CETV4高清
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 tvg-id="J04" tvg-name="湖南教育台" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan8.png" group-title="教育台",湖南教育
+#EXTINF:-1 tvg-id="J04" tvg-name="湖南教育台高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan8.png" group-title="教育台",湖南教育台高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000023000000196697/main.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000023000000196697/main.m3u8
 #EXTINF:-1 tvg-id="J05" tvg-name="山东教育台" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Shandong9.png" group-title="教育台",山东教育
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000016000000007227/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
