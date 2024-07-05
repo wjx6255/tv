@@ -1212,6 +1212,28 @@ http://stream.smntv.cn/smtv1/sd/live.m3u8
 #EXTINF:-1 tvg-id="FJ03" tvg-name="三明二套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Xiamen.png" group-title="福建地方",三明二套
 http://stream.smntv.cn/smtv2/sd/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="河西走廊",01
+https://vip.ffzy-play1.com/20230108/49134_089d0311/index.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="河西走廊",02
+https://vip.ffzy-play1.com/20230108/49136_6de39d62/index.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="河西走廊",03
+https://vip.ffzy-play1.com/20230108/49135_3cd70a31/index.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="河西走廊",04
+https://vip.ffzy-play1.com/20230108/49133_140f0eb0/index.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="河西走廊",05
+https://vip.ffzy-play1.com/20230108/49138_e4043f87/index.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="河西走廊",06
+https://vip.ffzy-play1.com/20230108/49137_5b341c5d/index.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="河西走廊",07
+https://vip.ffzy-play1.com/20230108/49139_e62a76c5/index.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="河西走廊",08
+https://vip.ffzy-play1.com/20230108/49143_9a73492b/index.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="河西走廊",09
+https://vip.ffzy-play1.com/20230108/49141_9d9e6fa8/index.m3u8
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="河西走廊",10
+https://vip.ffzy-play1.com/20230108/49142_9305eca7/index.m3u8
+
+
 #EXTINF:-1 tvg-id="zhuchi01" tvg-name="2019主持人大赛" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="主持人大赛",2019主持人大赛第1场
 https://vip.ffzy-play2.com/20230117/22397_32baa2d6/index.m3u8
 #EXTINF:-1 tvg-id="zhuchi02" tvg-name="2019主持人大赛" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="主持人大赛",2019主持人大赛第2场
