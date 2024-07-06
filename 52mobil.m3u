@@ -5,8 +5,10 @@ http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/000000010000000000500
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448841/main.m3u8#
 #EXTINF:-1 tvg-id="s13" tvg-name="动作电影高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC3.png" group-title="湖南地方",动作电影高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448842/main.m3u8#
-#EXTINF:-1 tvg-id="HN01" tvg-name="湖南卫视高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan.png" group-title="湖南地方",湖南卫视高清
+#EXTINF:-1 tvg-id="HN01" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan.png" group-title="湖南地方",湖南卫视高清
 http://tvgslb.hn.chinamobile.com:8089//180000001002/00000001000000000064000000308827/main.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001242/main.m3u8
+#EXTINF:-1 tvg-id="HN01" tvg-name="湖南卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan.png" group-title="湖南地方",湖南卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001242/main.m3u8
 #EXTINF:-1 tvg-id="HN02" tvg-name="湖南经视" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan1.png" group-title="湖南地方",湖南经视
 http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-hunanjingshi/index.m3u8#http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000002000000113182/main.m3u8
 #EXTINF:-1 tvg-id="HN03" tvg-name="湖南都市" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan2.png" group-title="湖南地方",湖南都市
@@ -1184,33 +1186,33 @@ http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
 #EXTINF:-1 tvg-id="HENAN09" tvg-name="洛阳三套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Henan.png" group-title="地方",洛阳三套
 http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SHANXI001" tvg-name="山西卫视高清" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="山西地方",山西卫视高清
+#EXTINF:-1 tvg-id="SHANXI001" tvg-name="山西卫视高清" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="地方",山西卫视高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000000000000020000000000182271/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226392/index.m3u8
-#EXTINF:-1 tvg-id="SHANXI002" tvg-name="黄河电视台" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="山西地方",黄河电视台
+#EXTINF:-1 tvg-id="SHANXI002" tvg-name="黄河电视台" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="地方",黄河电视台
 http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-id="SHANXI003" tvg-name="山西经济与科技" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="山西地方",山西经济与科技
+#EXTINF:-1 tvg-id="SHANXI003" tvg-name="山西经济与科技" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="地方",山西经济与科技
 http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-id="SHANXI004" tvg-name="山西影视" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="山西地方",山西影视
+#EXTINF:-1 tvg-id="SHANXI004" tvg-name="山西影视" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="地方",山西影视
 http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-id="SHANXI005" tvg-name="山西社会与法治" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="山西地方",山西社会与法治
+#EXTINF:-1 tvg-id="SHANXI005" tvg-name="山西社会与法治" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="地方",山西社会与法治
 http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-id="SHANXI006" tvg-name="山西文体生活" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="山西地方",山西文体生活
+#EXTINF:-1 tvg-id="SHANXI006" tvg-name="山西文体生活" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="地方",山西文体生活
 http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true
-#EXTINF:-1 tvg-id="SHANXI007" tvg-name="晋中公共" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="山西地方",晋中公共
+#EXTINF:-1 tvg-id="SHANXI007" tvg-name="晋中公共" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="地方",晋中公共
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
-#EXTINF:-1 tvg-id="SHANXI008" tvg-name="晋中新闻" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="山西地方",晋中新闻
+#EXTINF:-1 tvg-id="SHANXI008" tvg-name="晋中新闻" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="地方",晋中新闻
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8#http://jzlive.jztvnews.com:83/live/mount_for_ts/jzzh.m3u8
-#EXTINF:-1 tvg-id="SHANXI009" tvg-name="运城一套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="山西地方",运城一套
+#EXTINF:-1 tvg-id="SHANXI009" tvg-name="运城一套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="地方",运城一套
 http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8
-#EXTINF:-1 tvg-id="SHANXI010" tvg-name="运城二套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="山西地方",运城二套
+#EXTINF:-1 tvg-id="SHANXI010" tvg-name="运城二套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="地方",运城二套
 http://live.0359tv.com/lsdream/t667aTY/live.m3u8
-#EXTINF:-1 tvg-id="SHANXI011" tvg-name="运城三套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="山西地方",运城三套
+#EXTINF:-1 tvg-id="SHANXI011" tvg-name="运城三套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Shanxi_.png" group-title="地方",运城三套
 http://live.0359tv.com/lsdream/p5eq48m/live.m3u8
-#EXTINF:-1 tvg-id="FJ01" tvg-name="福建卫视" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Xiamen.png" group-title="福建地方",福建卫视
+#EXTINF:-1 tvg-id="FJ01" tvg-name="福建卫视" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Xiamen.png" group-title="地方",福建卫视
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000022000000381023/main.m3u8
-#EXTINF:-1 tvg-id="FJ02" tvg-name="三明一套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Xiamen.png" group-title="福建地方",三明一套
+#EXTINF:-1 tvg-id="FJ02" tvg-name="三明一套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Xiamen.png" group-title="地方",三明一套
 http://stream.smntv.cn/smtv1/sd/live.m3u8
-#EXTINF:-1 tvg-id="FJ03" tvg-name="三明二套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Xiamen.png" group-title="福建地方",三明二套
+#EXTINF:-1 tvg-id="FJ03" tvg-name="三明二套" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Xiamen.png" group-title="地方",三明二套
 http://stream.smntv.cn/smtv2/sd/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="河西走廊",01
