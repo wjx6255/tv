@@ -1875,7 +1875,7 @@ https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_64
 #EXTINF:-1 tvg-id="chunwan044" tvg-name="2024年春晚" tvg-logo="https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="春晚系列",春晚2024
 https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="电视剧",经典电视剧集
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="经典电视剧"
 #EXTINF:-1 tvg-id="DSJ0001"  tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="狂飙",狂飙01
 https://vip.lz-cdn3.com/20230114/17154_db8125dc/index.m3u8
 #EXTINF:-1 tvg-id="DSJ0002"  tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="狂飙",狂飙02
@@ -2442,7 +2442,7 @@ https://vip.ffzy-play6.com/20240612/24932_621f1aab/index.m3u8
 https://vip.ffzy-play6.com/20240612/24933_14aa337b/index.m3u8
 #EXTINF:-1 tvg-id="DSJD00012"  tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="五台山抗日传奇",五台山抗日传奇之女兵排12
 https://vip.ffzy-play6.com/20240612/24939_34d3a984/index.m3u8
-#EXTINF:-1 tvg-id="DSJD00013"  tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="电视剧",五台山抗日传奇之女兵排13
+#EXTINF:-1 tvg-id="DSJD00013"  tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="五台山抗日传奇",五台山抗日传奇之女兵排13
 https://vip.ffzy-play6.com/20240612/24934_c59e034f/index.m3u8
 #EXTINF:-1 tvg-id="DSJD00014"  tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="五台山抗日传奇",五台山抗日传奇之女兵排14
 https://vip.ffzy-play6.com/20240612/24938_fd0d14f0/index.m3u8
@@ -2962,7 +2962,7 @@ https://vip.ffzy-play1.com/20221214/34820_70ac5e1a/index.m3u8
 https://vip.ffzy-play1.com/20221214/34821_988ead9b/index.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="人民的名义",人民的名义09
 https://vip.ffzy-play1.com/20221214/34823_3f1ea672/index.m3u8
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="电视剧",人民的名义10
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="人民的名义",人民的名义10
 https://vip.ffzy-play1.com/20221214/34824_fa90d416/index.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/wjx.png" group-title="人民的名义",人民的名义11
 https://vip.ffzy-play1.com/20221214/34819_686f8545/index.m3u8
