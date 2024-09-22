@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="s100" tvg-name="香港台" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan.png" group-title="湖南地方",香港台
+#EXTINF:-1 tvg-id="s100" tvg-name="香港台" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Phoenix3.png" group-title="湖南地方",香港台
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-id="s101" tvg-name="凤凰卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan.png" group-title="湖南地方",凤凰卫视
+#EXTINF:-1 tvg-id="s101" tvg-name="凤凰卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Phoenix1.png" group-title="湖南地方",凤凰卫视
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-id="s102" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan.png" group-title="湖南地方",凤凰资讯
+#EXTINF:-1 tvg-id="s102" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Phoenix2.png" group-title="湖南地方",凤凰资讯
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="s11" tvg-name="家庭影院高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC2.png" group-title="湖南地方",家庭影院高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448840/main.m3u8#
