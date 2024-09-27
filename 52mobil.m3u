@@ -21,18 +21,18 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-hunanjingshi/index.m3u8#http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000002000000113182/main.m3u8
 #EXTINF:-1 tvg-id="HN03" tvg-name="湖南都市" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan2.png" group-title="湖南地方",湖南都市
 http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-hunandushi/index.m3u8#http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000007000000001249/main.m3u8
-#EXTINF:-1 tvg-id="HN04" tvg-name="湖南电视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan7.png" group-title="湖南地方",湖南电视剧
-http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-xiaoxiangdsj/index.m3u8#http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000007000000001245/main.m3u8
 #EXTINF:-1 tvg-id="HN05" tvg-name="湖南电影" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan6.png" group-title="湖南地方",湖南电影
 http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-xiaoxiangdy/index.m3u8#http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000007000000001246/main.m3u8
-
+#EXTINF:-1 tvg-id="HN04" tvg-name="湖南电视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan7.png" group-title="湖南地方",湖南电视剧
+http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-xiaoxiangdsj/index.m3u8#http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000007000000001245/main.m3u8
 #EXTINF:-1 tvg-id="HN90" tvg-name="山西影视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan7.png" group-title="湖南地方",山西影视剧
 https://epg.pw/stream/b493ddd1a113751d7924062be602f98313d60185dea9c5ffd516f727300f4a58.m3u8
 #EXTINF:-1 tvg-id="HN91" tvg-name="安徽影视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan7.png" group-title="湖南地方",安徽影视剧
 https://epg.pw/stream/a34aa2b2f8b89143f5d1d219d14e07aff3a540dcee1a8827a7493d54a6dbe218.ctv
 #EXTINF:-1 tvg-id="HN92" tvg-name="都市电视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan7.png" group-title="湖南地方",都市剧场剧
 https://epg.pw/stream/2eabe02805b061c8bec403738aa242cadc769f72b5711c5b2567abd96b669815.m3u8
-
+#EXTINF:-1 tvg-id="HN93" tvg-name="河北电视剧" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan7.png" group-title="湖南地方",河北电视剧
+http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c
 #EXTINF:-1 tvg-id="HN06" tvg-name="湖南娱乐" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan5.png" group-title="湖南地方",湖南娱乐
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000007000000001248/main.m3u8#http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001248/main.m3u8
 #EXTINF:-1tvg-id="HN07" tvg-name="金鹰纪实" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Hunan9.png" group-title="湖南地方",金鹰纪实
@@ -1179,19 +1179,19 @@ http://182.38.178.100:4000/udp/239.21.1.66:5002
 #EXTINF:-1 tvg-id="HEBEI01" tvg-name="河北卫视高清" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Hebei.png" group-title="地方",河北卫视高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000016000000007223/main.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-id="HEBEI02" tvg-name="河北电视台" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/WEISHI/Hebei.png" group-title="地方",河北电视台
-http://106.115.25.134:9999/tsfile/live/0117_1.m3u8
+http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
 #EXTINF:-1 tvg-id="HEBEI03" tvg-name="河北经济" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/HEBEI/Hebei1.png" group-title="地方",河北经济
-http://106.115.25.134:9999/tsfile/live/1005_1.m3u8
+http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
 #EXTINF:-1 tvg-id="HEBEI04" tvg-name="河北都市" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/HEBEI/Hebei2.png" group-title="地方",河北都市
-http://106.115.25.134:9999/tsfile/live/1006_1.m3u8
+http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
 #EXTINF:-1 tvg-id="HEBEI05" tvg-name="河北影视" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/HEBEI/Hebei3.png" group-title="地方",河北影视
-http://106.115.25.134:9999/tsfile/live/1007_1.m3u8
+http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c
 #EXTINF:-1 tvg-id="HEBEI06" tvg-name="河北少儿科教" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/HEBEI/Hebei4.png" group-title="地方",河北少儿科教
-http://106.115.25.134:9999/tsfile/live/1008_1.m3u8
+http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 #EXTINF:-1 tvg-id="HEBEI07" tvg-name="河北公共" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/HEBEI/Hebei5.png" group-title="地方",河北公共
-http://106.115.25.134:9999/tsfile/live/1009_1.m3u8
+http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
 #EXTINF:-1 tvg-id="HEBEI08" tvg-name="河北农民" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/HEBEI/Hebei6.png" group-title="地方",河北农民
-http://106.115.25.134:9999/tsfile/live/1010_1.m3u8
+http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
 #EXTINF:-1 tvg-id="HEBEI09" tvg-name="石家庄新闻综合频道" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/HEBEI/Hebei6.png" group-title="地方",石家庄新闻综合频道
 http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 #EXTINF:-1 tvg-id="HEBEI010" tvg-name="石家庄娱乐频道" tvg-logo="https://gitee.com/wjx-tv/wjx/raw/master/HEBEI/Hebei6.png" group-title="地方",石家庄娱乐频道
