@@ -1,62 +1,63 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="s104" tvg-name="星空台" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",星空卫视
 http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,龍華經典台 
-https://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1,鳳凰香港    
-https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1,鳳凰資訊     
-https://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1,鳳凰中文    
-https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1,靖天電影台  
-https://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1,華視           
-https://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1,翡翠综合台(北美)  
-https://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1,翡翠台(泰国)  
-https://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-#EXTINF:-1,翡翠台         
-https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1,翡翠剧集台(北美) 
-https://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1,無線新聞台  
-https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1,明珠台       
-https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1,明珠剧集台(北美)  
-https://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1,无线新闻台(北美)   
-https://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-#EXTINF:-1,寰宇新聞台  
-https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1,中視          
-https://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1,中天新聞台   
-https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1,中天亞洲台     
-https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1,三立財經新聞   
-https://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-#EXTINF:-1,三立綜合台     
-https://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1,TVBS-新聞台  
-https://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1,TVBS         
-https://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1,TVB Plus     
-https://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1,PopC     
-https://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1,myTV SUPER 18台 
-https://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+
 #EXTINF:-1 tvg-id="s100" tvg-name="香港台" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Phoenix3.png" group-title="湖南地方",香港台
 http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 tvg-id="s101" tvg-name="凤凰卫视" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Phoenix1.png" group-title="湖南地方",凤凰卫视
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 tvg-id="s102" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Phoenix2.png" group-title="湖南地方",凤凰资讯
 http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-id="Z02" tvg-name="鳳凰香港" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",鳳凰香港    
+https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z03" tvg-name="鳳凰資訊" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",鳳凰資訊     
+https://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z04" tvg-name="鳳凰中文" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",鳳凰中文    
+https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z01" tvg-name="龍華經典台 " tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方" ,龍華經典台 
+https://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z05" tvg-name="靖天電影台" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",靖天電影台  
+https://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z06" tvg-name="華視 " tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",華視           
+https://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z07" tvg-name="翡翠综合台(北美)" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",翡翠综合台(北美)  
+https://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z08" tvg-name="翡翠台(泰国)" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",翡翠台(泰国)  
+https://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z09" tvg-name="翡翠台   " tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",翡翠台         
+https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z010" tvg-name="翡翠剧集台(北美)" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",翡翠剧集台(北美) 
+https://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z011" tvg-name="無線新聞台" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",無線新聞台  
+https://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z012" tvg-name="明珠台" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",明珠台       
+https://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z013" tvg-name="明珠剧集台(北美)" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",明珠剧集台(北美) 
+ https://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z014" tvg-name="无线新闻台(北美)" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",无线新闻台(北美)   
+https://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z015" tvg-name="寰宇新聞台" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",寰宇新聞台  
+https://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z016" tvg-name="中視  " tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",中視          
+https://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z017" tvg-name="中天新聞台 " tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",中天新聞台   
+https://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z018" tvg-name="中天亞洲台" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",中天亞洲台     
+https://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z019" tvg-name="三立財經新聞" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",三立財經新聞   
+https://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z020" tvg-name="三立綜合台 " tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",三立綜合台     
+https://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z021" tvg-name="TVBS-新聞台 " tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",TVBS-新聞台  
+https://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z022" tvg-name="TVBS  " tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",TVBS         
+https://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z023" tvg-name="TVB Plus" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",TVB Plus     
+https://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z024" tvg-name="PopC" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",PopC     
+https://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+#EXTINF:-1 tvg-id="Z025" tvg-name="18台 " tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/Yanbian.png" group-title="湖南地方",myTV SUPER 18台 
+https://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 #EXTINF:-1 tvg-id="s11" tvg-name="家庭影院高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC2.png" group-title="湖南地方",家庭影院高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000050000000448840/main.m3u8#
 #EXTINF:-1 tvg-id="s12" tvg-name="高清电影高清" tvg-logo="https://mirror.ghproxy.com/https://github.com/wjx6255/tag/raw/main/CHC1.png" group-title="湖南地方",高清电影高清
