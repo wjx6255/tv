@@ -1,9 +1,9 @@
 中国IPTV,#genre#
-香港台,http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰卫视,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
-星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+香港台http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰卫视http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+星空卫视http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+重温经典http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 第一剧场,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244808/main.m3u8
 第一剧场,http://tvgslb.hn.chinamobile.com.com:8089/180000001002/00000001000000000091000000244808/main.m3u8
 风云剧场,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000091000000244807/main.m3u8
