@@ -374,8 +374,6 @@ CGTN阿拉伯语,http://tvgslb.hn.chinamobile.com:8089/180000001002/000000010000
 CGTN俄语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8$可回看
 CGTN俄语,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000071000000305589/main.m3u8
 CGTN俄语,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305589/main.m3u8
-天元围棋,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000010000000040365/main.m3u8
-天元围棋,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8
 
 
 
@@ -587,6 +585,8 @@ CGTN俄语,http://tvgslb.hn.chinamobile.com:8089/180000001002/000000010000000000
 早期教育,http://tvgslb.hn.chinamobile.com:8089/180000001001/32023060222354368427501888132813/main.m3u8
 早期教育,http://tvgslb.hn.chinamobile.com:8089/180000001002/32023060222354368427501888132813/index.m3u8
 早期教育,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/32023060222354368427501888132813/main.m3u8
+天元围棋,http://gslbserv.taipan.hna.bcs.ottcn.com:8089/180000001002/00000001000000000010000000040365/main.m3u8
+天元围棋,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8
 
 
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8$可回看
